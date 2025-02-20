@@ -1,0 +1,1 @@
+I designed and implemented the Huffman compression algorithm in C, developing a custom memory-efficient binary tree structure for encoding. Additionally, I created a file decompression system to restore the original data and evaluated its performance by analyzing compression ratios across various file types.
